@@ -1,6 +1,6 @@
-Google Clone with Ads | Full Stack Application w/ CRUD using React, Node, Express, MongoDB, Mongoose, API, deployed w/AWS EC2
+Google Clone with Ads | Full Stack Application w/ CRUD using React, Node, Express, MongoDB, Mongoose, Axios, API, deployed w/AWS EC2
 
-Technologies used: React, Node, Express, MongoDB, Mongoose, API, HTML, CSS, JS, Material UI, Bootstrap, AWS EC2, AWS Route 53
+Technologies used: React, Node, Express, MongoDB, Mongoose, Axios, API, HTML, CSS, JS, Material UI, Bootstrap, AWS EC2, AWS Route 53
 
 Built a Google clone using Google's Custom Search API. Demonstrate proficiency with using APIs.
 Google simulated pay per click advertisements can be created, read, updated, deleted on the advertisement dashboard.
