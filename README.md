@@ -17,6 +17,8 @@ http://googleclone.com http://54.183.210.137 AWS EC2 Deployed
 
 ![image](https://user-images.githubusercontent.com/98496684/189586095-c4664958-3b4a-4bf0-a633-940bc46440cf.png)
 
+![image](https://user-images.githubusercontent.com/98496684/189586194-69beb983-a85c-4c9d-a311-3a8ce8695cbe.png)
+
 ![image](https://user-images.githubusercontent.com/98496684/189586118-7487cf02-a191-4f2f-b0c4-b9cc1389c9dd.png)
 
 "# googleclonewithads" 
