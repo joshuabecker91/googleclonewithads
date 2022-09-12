@@ -1,0 +1,21 @@
+@media only screen and (max-width: 1080px) {
+    .adBidForPlacement {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .adStatus {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .adClicks {
+        display: none;
+    }
+}
+
+.allAdsPage {
+    min-width: 570px;
+}

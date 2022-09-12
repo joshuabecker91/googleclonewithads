@@ -1,0 +1,187 @@
+.searchPage__logo {
+    object-fit: contain;
+    height: 31px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.searchPage__header {
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 30px;
+    /* align-items: flex-start; */
+    /* width: 650px; */
+    /* height: 80px; */
+    /* border-bottom: 1px solid lightgray; */
+}
+
+.searchPage__logo {
+    width: 150px;
+    margin-top: 26px;
+}
+
+.searchPage__headerBody.Search {
+    width: 650px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.searchPage__results {
+    max-width: 650px;
+    margin-top: 20px;
+    margin-left: 180px;
+    margin-bottom: 100px;
+    margin-right: 7px;
+}
+
+@media only screen and (max-width: 749px) {
+    .searchPage__results {
+        /* background-color: lightblue; */
+        margin-left: 35px;
+    }
+}
+
+/* @media only screen and (min-width: 750px) {
+    .searchPage__results {
+        background-color: greenyellow;
+        margin-left: 180px;
+    }
+} */
+
+.searchPage__result {
+    margin-top: 22px;
+    max-width: 650px;
+    /* max-height: 200px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.searchPage__resultText {
+    padding-right: 10px;
+    /* display: flex; */
+    /* justify-content: space-around; */
+    /* align-items: center; */
+}
+
+.searchPage__resultCount {
+    color: #70757a;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.searchPage__resultTitle {
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: #1a0dab;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.searchPage__resultText > a {
+    text-decoration: none;
+    /* max-height: 40px; */
+}
+
+.searchPage__resultText > p {
+    text-decoration: none;
+    /* max-height: 100px; */
+}
+
+.searchPage__resultText > a > p {
+    color: #5f6368;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+}
+
+.searchPage__resultText > a > h2 {
+    margin-top: 0px;
+}
+
+.searchPage__resultText > a > h2:hover {
+    text-decoration: underline;
+}
+
+
+.searchPage__resultSnippet {
+    margin-top: 0px;
+}
+
+.searchPage__resultImage {
+    object-fit: contain;
+    height: 92px;
+    width: 92px;
+}
+
+.break {
+    display: flex;
+    position: sticky;
+    align-items: flex-start;
+    margin-top: 15px;
+    border-bottom: 1px solid lightgray;
+}
+
+.searchPage__options {
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 180px;
+    /* height: 14px; */
+    font-size: 14px;
+    /* margin-top: 20px; */
+}
+
+.searchPage__optionsLeft,
+.searchPage__optionsRight {
+    display: flex;
+    align-items: center;
+}
+
+.searchPage__optionsLeft a,
+.searchPage__optionsRight a {
+    text-decoration: none;
+    color: #5f6368;
+}
+
+.searchPage__option {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    color: #5f6368;
+}
+
+.searchPage__option a {
+    margin-left: 5px;
+}
+
+.searchPage__optionsLeft > Link {
+    height: 10px;
+}
+
+.ads {
+    border-left: 1px solid rgb(235, 235, 235);
+    margin-left: 20px;
+}
+
+.ad {
+    border: 1px solid rgb(235, 235, 235);
+}
+
+.adCard {
+    min-width: 250px;
+}
+
+.adLink:hover {
+    cursor: pointer;
+}
+
+.adTitle {
+    font-size: 18px;
+}
