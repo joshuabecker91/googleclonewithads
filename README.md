@@ -14,6 +14,7 @@ useContext and Created a custom hook for the Search Engine API call.
 Material UI for Google Icons to make the front end pages resemble Google Search as accurately as possible.
 
 http://googleclone.com http://54.183.210.137 AWS EC2 Deployed
+Please disable adblocker when visiting the site as it may actually block these ads from rendering on the page.
 
 ![image](https://user-images.githubusercontent.com/98496684/189586095-c4664958-3b4a-4bf0-a633-940bc46440cf.png)
 
