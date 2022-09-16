@@ -18,6 +18,8 @@ Please disable adblocker when visiting the site as it may actually block these a
 
 http://googleclone.com http://54.183.210.137 AWS EC2 Deployed
 
+https://user-images.githubusercontent.com/98496684/190670651-619d5f7f-c78f-442f-a803-0e06d3e6bd2b.mp4
+
 ![image](https://user-images.githubusercontent.com/98496684/189586095-c4664958-3b4a-4bf0-a633-940bc46440cf.png)
 
 ![image](https://user-images.githubusercontent.com/98496684/189586194-69beb983-a85c-4c9d-a311-3a8ce8695cbe.png)
