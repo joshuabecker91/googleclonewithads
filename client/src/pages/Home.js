@@ -17,7 +17,7 @@ const Home = () => {
                 </div>
                 <div className='home__headerRight'>
                     <a target="_blank" href='https://www.linkedin.com/in/beckerjoshua/'>LinkedIn</a>
-                    <a target="_blank" href='https://www.dropbox.com/s/ov7l3plx9dtge3h/Joshua%20Becker%20Resume.pdf?dl=0'>Resume</a>
+                    <a target="_blank" href='https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf'>Resume</a>
                     <AppsIcon/>
                     <Avatar>G</Avatar>
                 </div>
